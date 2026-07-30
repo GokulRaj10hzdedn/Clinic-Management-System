@@ -85,7 +85,7 @@ APIs consumed by the React frontend.
 
 ### Frontend
 
--   React.js(Vite)
+-   React.js (Vite)
 -   Bootstrap / CSS
 
 ### Tools
@@ -108,7 +108,7 @@ APIs consumed by the React frontend.
             ↓
     Medicine Dispense 
             ↓
-              Billing
+         Billing
 
 ------------------------------------------------------------------------
 
