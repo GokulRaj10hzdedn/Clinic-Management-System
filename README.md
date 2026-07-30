@@ -53,6 +53,11 @@ responsibilities.
 -   Low-stock alerts
 -   Dispensing workflow linked to prescriptions
 
+### 📄 PDF Generation & Printing
+
+- Automatically generates professional PDF documents for prescriptions, consultation bills, and pharmacy bills.
+- Supports both in-browser preview for printing and downloadable PDF attachments.
+- Includes patient details, doctor information, prescribed medicines, consultation records and payment status.
 
 ### 💰 Billing System
 
