@@ -2,8 +2,7 @@
 
 A **full-stack Clinic Management System** built using **Django, React,
 and MySQL** to streamline hospital operations including patient
-management, appointments, consultations, pharmacy inventory, laboratory
-workflows and billing.
+management, appointments, consultations, pharmacy inventory and billing.
 
 This system digitizes day-to-day clinic activities through a secure
 **role-based architecture**, improving efficiency, accuracy and patient
@@ -46,7 +45,6 @@ responsibilities.
 
 -   Digital consultation notes
 -   Medicine prescription management
--   Lab test requests
 -   Patient medical history tracking
 
 ### 💊 Pharmacy & Inventory Management
@@ -60,7 +58,6 @@ responsibilities.
 
 -   One-time patient registration fee
 -   Consultation billing
--   Lab billing integration
 -   Payment tracking
 
 ------------------------------------------------------------------------
@@ -88,7 +85,7 @@ APIs consumed by the React frontend.
 
 ### Frontend
 
--   React.js
+-   React.js(Vite)
 -   Bootstrap / CSS
 
 ### Tools
@@ -107,9 +104,9 @@ APIs consumed by the React frontend.
             ↓
     Doctor Consultation
             ↓
-    Prescription / Lab Test
+    Prescription 
             ↓
-    Medicine Dispense / Lab Result
+    Medicine Dispense 
             ↓
               Billing
 
@@ -118,5 +115,5 @@ APIs consumed by the React frontend.
 ## ⭐ Project Goal
 
 To provide a scalable and efficient digital solution for managing clinic
-operations while ensuring secure access, accurate record keeping, and
+operations while ensuring secure access, accurate record keeping and
 improved healthcare workflow automation.
